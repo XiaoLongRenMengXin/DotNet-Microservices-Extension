@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/jesus/works/git/DotNet-Microservices-Extension/Test/Test.csproj": {}
+  },
+  "projects": {
+    "/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/Microservices.Extension.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/Microservices.Extension.csproj",
+        "projectName": "Microservices.Extension",
+        "projectPath": "/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/Microservices.Extension.csproj",
+        "packagesPath": "/home/jesus/.nuget/packages/",
+        "outputPath": "/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jesus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/jesus/works/git/DotNet-Microservices-Extension/Test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/jesus/works/git/DotNet-Microservices-Extension/Test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/media/jesus/works/git/DotNet-Microservices-Extension/Test/Test.csproj",
+        "packagesPath": "/home/jesus/.nuget/packages/",
+        "outputPath": "/media/jesus/works/git/DotNet-Microservices-Extension/Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jesus/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/Microservices.Extension.csproj": {
+                "projectPath": "/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/Microservices.Extension.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

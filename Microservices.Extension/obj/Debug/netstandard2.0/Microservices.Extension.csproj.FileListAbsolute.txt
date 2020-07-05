@@ -1,0 +1,9 @@
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/obj/Debug/netstandard2.0/Microservices.Extension.csprojAssemblyReference.cache
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/obj/Debug/netstandard2.0/Microservices.Extension.AssemblyInfoInputs.cache
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/obj/Debug/netstandard2.0/Microservices.Extension.AssemblyInfo.cs
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/obj/Debug/netstandard2.0/Microservices.Extension.csproj.CoreCompileInputs.cache
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/bin/Debug/netstandard2.0/Microservices.Extension.deps.json
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/bin/Debug/netstandard2.0/Microservices.Extension.dll
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/bin/Debug/netstandard2.0/Microservices.Extension.pdb
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/obj/Debug/netstandard2.0/Microservices.Extension.dll
+/media/jesus/works/git/DotNet-Microservices-Extension/Microservices.Extension/obj/Debug/netstandard2.0/Microservices.Extension.pdb
