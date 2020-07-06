@@ -30,3 +30,6 @@
 进入`Test`目录中,然后`运行-调试`配置目录下`.vscode`文件夹中的`launch.json`文件,修改`console`属性`"console": "internalConsole",` ->`"console": "integratedTerminal"`
 
 然后就在**Test**目录中调试
+
+5.扩展支持,我们的服务要运行在程序中必须进行注册,使用扩展的方法对`Stearp.cs`类中的`ConfigureServices`、`Configure`方法进行扩展
+[扩展](https://github.com/XiaoLongRenMengXin/DotNet-Microservices-Extension/blob/master/Filter.md)
